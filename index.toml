@@ -889,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "ad278104876f2e043fa466b90be7b71c1ad4f53710e30f3c43a52ab4cbeb24a6"
+hash = "70cd30931bd186fd3f9770062dd998774ac9e1c0cf478938a62d5815ffdcfe5b"
 metafile = true
 
 [[files]]
@@ -953,7 +953,7 @@ hash = "428f8f4c710bcbe057b19bd3d79fbdc82a36eada9acfe064fd9ab534bf01019b"
 
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
-hash = "c78e5aadda0f2be8481cefeaa7fc27fce87c34097dbfd29aa715fef2b1f55ba4"
+hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
 metafile = true
 
 [[files]]
