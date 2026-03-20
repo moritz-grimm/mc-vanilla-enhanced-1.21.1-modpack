@@ -948,14 +948,6 @@ hash = "dd9eb796545bbc04a65a67224095336c360b6a7733767283215abc201d0c1ecf"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Quark Programmer Art.zip"
-hash = "428f8f4c710bcbe057b19bd3d79fbdc82a36eada9acfe064fd9ab534bf01019b"
-
-[[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
 metafile = true
-
-[[files]]
-file = "zip/Vanilla-Enhanced-1.21.1.zip"
-hash = "21ecb06418535150da298fb9b435fb7718bbbfeb6f7715e13b361464edd8b659"
