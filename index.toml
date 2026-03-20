@@ -499,12 +499,12 @@ hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "925868d37e4696c59df77549f9e64207780d4655219fd5cfc0b187df302d45f8"
+hash = "7329db8d8b0fe08ac02a3b2ad816fa9f2081c5b2067f449c36c01b84ded7bf13"
 metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
+hash = "290c52a0fc9bb3354292977955e634749bb0c34c1496740b1d8c60e978d0ac65"
 metafile = true
 
 [[files]]
@@ -539,12 +539,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "55fe1f1a0b72abf4b697b3e0d8f5449e590bb519d26a29e6eeac049161003a34"
+hash = "03783ec688ae2cd6e2bc0495489ac41cc7aa7b4a2f1d8319a9c236842f3d6750"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
+hash = "3330f934f8dd4d6fa0c188d96cae55449dc8e9b27458ba73cceb801f1a81e082"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a4b782d5d6ed30311475caa01341d75ccb6fa7c154d88ffa25ddebf13b1e570c"
+hash = "17fd416acf4953b54335f2c25d9cf7f19013ace099a1d7889ca9a973f349f9b9"
 metafile = true
 
 [[files]]
@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4c8454a265574253ae608448e14a1acf138b364cced8245c72e9c4b68fb52207"
+hash = "840b796a400209ae1a80994a77ec67b8bcabe6d1f5ba96d4e066cce6bebc68c4"
 metafile = true
 
 [[files]]
@@ -684,12 +684,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8e67a96432b89ad64ec00b59666f510ead091dea23632a672ac800c77964e9ae"
+hash = "0a340d62ec786133c1cc6f40d86655a77055461ad65390a8679be294279d6f94"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+hash = "e34877bf9d74d3f71c69fdd47ce509fa473fadcdf88f87f79754a522cfa1c60b"
 metafile = true
 
 [[files]]
@@ -704,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "5345bb641d6b9307c6a05f12885315537386519476bd2aee79d9fd1181268a7a"
+hash = "9cf35d5b0b7ab064ea54e393af17304e5264ee6a59f5224fb5b79ad3c45ea22f"
 metafile = true
 
 [[files]]
@@ -794,7 +794,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
 
 [[files]]
@@ -804,22 +804,22 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "74b3644a1ec1afa013fc29015177fb32d2ee88ac4e7081ffdcb4cca63ab02e14"
+hash = "a4f3340a47ac90fbce15f854b9a498e54613eff1ebdb5f007a4eadf40c03fc59"
 metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
-hash = "94e451110472bb47c50bfb8eba8758f2be2ba699b6ddcf4b140b8014a06facfd"
+hash = "5f217056eed94ecf5037f7bfb1555b26a76815cb8930fe5b4207799a1c6a69fa"
 metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
+hash = "5fb0fad19f458b6e4eea5e70797656d672a6e705f746a8b1abcf39ab30cf5169"
 metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
+hash = "7021445d41682a36f1e8702d713a7ad004792e486d35b63487c2c91c203e7c6a"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
 metafile = true
 
 [[files]]
@@ -884,7 +884,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "b9d4d42709629f2d52cb9d33bedf298bbea635b53f69946f9ec2735c47dfbd83"
+hash = "cf4e5f63253b423171e41bbe4a55891a48cbabd9cb029952f7c8df70d74553b7"
 metafile = true
 
 [[files]]
@@ -955,3 +955,7 @@ hash = "428f8f4c710bcbe057b19bd3d79fbdc82a36eada9acfe064fd9ab534bf01019b"
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "c78e5aadda0f2be8481cefeaa7fc27fce87c34097dbfd29aa715fef2b1f55ba4"
 metafile = true
+
+[[files]]
+file = "zip/Vanilla-Enhanced-1.21.1.zip"
+hash = "21ecb06418535150da298fb9b435fb7718bbbfeb6f7715e13b361464edd8b659"
