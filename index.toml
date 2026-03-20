@@ -583,11 +583,6 @@ hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
 metafile = true
 
 [[files]]
-file = "mods/corpse.pw.toml"
-hash = "1de1d2e79e92458a05194f9a82d8a44ae3cc8d4cea2522b2dbd99f84f8a28299"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "7e266aeb4533b67f4fbdd30a6654cfa6439843b9a973d70bdc0443c219c0b54e"
 metafile = true
