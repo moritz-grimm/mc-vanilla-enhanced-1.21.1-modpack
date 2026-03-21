@@ -933,11 +933,6 @@ hash = "cab2f1d2bf3b9e4435f02cde12c270f3234599d63fc5c7383eaa9da3e4e9d5bb"
 metafile = true
 
 [[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "f28ceb27bc3ed0a9825de1f853d177b69495deab9128aa05694616e4504ddb52"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "9283886dd5137cffb6a6a08cb51dd978e67a676cfe5c221b93e591858aeccc62"
 metafile = true
